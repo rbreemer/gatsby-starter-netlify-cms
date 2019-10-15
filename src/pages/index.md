@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Castello di Gaiche
-image: /img/castello_di_gaiche_house_1.jpg
+image: /img/castello_di_gaiche_view_1.jpg
 heading: Castello di Gaiche
 subheading: New Website Under Construction
 mainpitch:
